@@ -4,6 +4,9 @@ function submitProfile(evt) {
   const data = {
     name: document.querySelector('#name-field').value,
     // fill in the rest
+
+  
+
   };
 
   // make request to server to get the data
