@@ -5,12 +5,6 @@ function submitProfile(evt) {
     name: document.querySelector('#name-field').value,
     age: document.querySelector('#age-field').value,
     occupation: document.querySelector('#occupation-field').value,
-    salary: document.querySelector('#name-field').value,
-    educationLevel: document.querySelector('#name-field').value,
-    state: document.querySelector('#state-field').value,
-    cityType: document.querySelector('#name-field').value,
-    garden: document.querySelector('#name-field').value,
-    tvHours: document.querySelector('#name-field').value,
     // fill in the rest
 
   
